@@ -1,0 +1,6 @@
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/CMakeFiles/edit_cache.dir
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/CMakeFiles/rebuild_cache.dir
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/src/CMakeFiles/matrix.dir
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/src/CMakeFiles/opt.dir
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/src/CMakeFiles/edit_cache.dir
+/home/lbl8/code/hartree-fock_geomopt-rev-3/build/src/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/matrix.dir/matrix_mkl.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/matrix_mkl.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/matrix_mkl.cpp",
+  "output": "src/CMakeFiles/matrix.dir/matrix_mkl.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/main.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/main.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/main.cpp",
+  "output": "src/CMakeFiles/opt.dir/main.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/vec3f64.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/vec3f64.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/vec3f64.cpp",
+  "output": "src/CMakeFiles/opt.dir/vec3f64.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/hessian.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/hessian.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/hessian.cpp",
+  "output": "src/CMakeFiles/opt.dir/hessian.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/geomopt.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/geomopt.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/geomopt.cpp",
+  "output": "src/CMakeFiles/opt.dir/geomopt.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/cell.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/cell.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/cell.cpp",
+  "output": "src/CMakeFiles/opt.dir/cell.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/rfo.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/rfo.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/rfo.cpp",
+  "output": "src/CMakeFiles/opt.dir/rfo.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/bfgs.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/bfgs.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/bfgs.cpp",
+  "output": "src/CMakeFiles/opt.dir/bfgs.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/gdiis.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/gdiis.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/gdiis.cpp",
+  "output": "src/CMakeFiles/opt.dir/gdiis.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/gediis.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/gediis.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/gediis.cpp",
+  "output": "src/CMakeFiles/opt.dir/gediis.cpp.o"
+},
+{
+  "directory": "/home/lbl8/code/hartree-fock_geomopt-rev-3/build",
+  "command": "/usr/bin/c++ -I/home/lbl8/code/hartree-fock_geomopt-rev-3/src -I/software/Applications/intel/oneapi-2021.3.0/mkl/2021.3.0/include -g -std=c++11 -o src/CMakeFiles/opt.dir/line_search.cpp.o -c /home/lbl8/code/hartree-fock_geomopt-rev-3/src/line_search.cpp",
+  "file": "/home/lbl8/code/hartree-fock_geomopt-rev-3/src/line_search.cpp",
+  "output": "src/CMakeFiles/opt.dir/line_search.cpp.o"
+}
+]
