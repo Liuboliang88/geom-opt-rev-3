@@ -342,6 +342,7 @@ bool GeomOpt::run(double maxGrad,
     return false; // 未达成收敛
 }
 
+HPP文件
 
 #pragma once
 
